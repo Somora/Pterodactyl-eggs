@@ -1,6 +1,5 @@
 🥚 Pterodactyl Eggs
 This repository contains custom and community-maintained eggs for use with the Pterodactyl panel.
-
 These eggs allow you to deploy various game servers or tools inside Docker containers via Pterodactyl.
 
 📦 How to use
