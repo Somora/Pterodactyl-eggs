@@ -21,3 +21,10 @@ These eggs allow you to deploy various game servers or utilities inside Docker c
 
 More eggs will be added soon!
 
+## 💡 Contributions
+
+Pull requests are welcome! Feel free to fork and submit your own custom or fixed eggs.
+
+## 📄 License
+
+This repository is open-source under the MIT License.
